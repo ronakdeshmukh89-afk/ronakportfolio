@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" role="img" aria-labelledby="title desc">
+  <title id="title">Calculator project illustration</title>
+  <desc id="desc">A playful calculator with number keys and a coral equals button.</desc>
+  <rect width="900" height="500" fill="#f7e8df"/>
+  <circle cx="128" cy="104" r="46" fill="#ff705e" opacity=".15"/><circle cx="787" cy="380" r="78" fill="#8be1c0" opacity=".55"/>
+  <path d="M0 412c130-75 210-40 324 10s216 35 333-17 176-65 243-36v131H0z" fill="#f1d8cc"/>
+  <g transform="translate(315 43) rotate(-5 140 200)">
+    <rect x="0" y="0" width="270" height="410" rx="30" fill="#211a3b"/>
+    <rect x="20" y="24" width="230" height="99" rx="14" fill="#d5f4e9"/>
+    <text x="226" y="92" fill="#211a3b" font-family="Arial,sans-serif" font-size="45" text-anchor="end">128</text>
+    <g fill="#433b5b">
+      <rect x="21" y="146" width="49" height="49" rx="13"/><rect x="78" y="146" width="49" height="49" rx="13"/><rect x="135" y="146" width="49" height="49" rx="13"/><rect x="192" y="146" width="58" height="49" rx="13"/>
+      <rect x="21" y="204" width="49" height="49" rx="13"/><rect x="78" y="204" width="49" height="49" rx="13"/><rect x="135" y="204" width="49" height="49" rx="13"/><rect x="192" y="204" width="58" height="49" rx="13"/>
+      <rect x="21" y="262" width="49" height="49" rx="13"/><rect x="78" y="262" width="49" height="49" rx="13"/><rect x="135" y="262" width="49" height="49" rx="13"/><rect x="192" y="262" width="58" height="49" rx="13"/>
+      <rect x="21" y="320" width="106" height="49" rx="13"/><rect x="135" y="320" width="49" height="49" rx="13"/>
+    </g>
+    <g fill="#fffaf0" font-family="Arial,sans-serif" font-size="22" text-anchor="middle">
+      <text x="45" y="179">7</text><text x="102" y="179">8</text><text x="159" y="179">9</text><text x="221" y="179">÷</text>
+      <text x="45" y="237">4</text><text x="102" y="237">5</text><text x="159" y="237">6</text><text x="221" y="237">×</text>
+      <text x="45" y="295">1</text><text x="102" y="295">2</text><text x="159" y="295">3</text><text x="221" y="295">−</text>
+      <text x="74" y="353">0</text><text x="159" y="353">.</text>
+    </g>
+    <rect x="192" y="320" width="58" height="49" rx="13" fill="#ff705e"/><text x="221" y="353" fill="white" font-family="Arial,sans-serif" font-size="25" text-anchor="middle">=</text>
+  </g>
+  <path d="M190 195l8 18 19 2-14 13 4 19-17-10-17 10 4-19-14-13 19-2z" fill="#ff705e"/><text x="700" y="132" fill="#211a3b" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="3">MAKE IT ADD UP</text>
+</svg>

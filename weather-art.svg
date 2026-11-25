@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" role="img" aria-labelledby="title desc">
+  <title id="title">Weather forecast project illustration</title>
+  <desc id="desc">A sunny forecast card with a sun and a row of forecast days.</desc>
+  <rect width="900" height="500" fill="#e2f4ed"/>
+  <circle cx="127" cy="374" r="100" fill="#8be1c0" opacity=".5"/><circle cx="790" cy="111" r="76" fill="#ff705e" opacity=".18"/>
+  <path d="M0 406c151-67 277-32 388 4s216 41 316-9 155-63 196-42v141H0z" fill="#c9eadb"/>
+  <g transform="translate(180 62)">
+    <rect width="540" height="377" rx="25" fill="#fffdf8"/>
+    <text x="38" y="47" fill="#211a3b" font-family="Arial,sans-serif" font-size="19" font-weight="700">TODAY'S FORECAST</text>
+    <text x="38" y="76" fill="#858092" font-family="Arial,sans-serif" font-size="14">A quick look at the week ahead</text>
+    <circle cx="425" cy="126" r="49" fill="#ffcb70"/>
+    <g stroke="#ffcb70" stroke-width="7" stroke-linecap="round"><path d="M425 57v-15M425 210v-15M356 126h-15M509 126h-15M376 77l-11-11M486 185l-11-11M474 77l11-11M365 185l11-11"/></g>
+    <text x="38" y="146" fill="#211a3b" font-family="Arial,sans-serif" font-size="58" font-weight="700">24°</text>
+    <text x="40" y="174" fill="#858092" font-family="Arial,sans-serif" font-size="16">Sunny skies</text>
+    <path d="M32 214h476" stroke="#eee9e3"/>
+    <g font-family="Arial,sans-serif" text-anchor="middle">
+      <text x="83" y="248" fill="#858092" font-size="13">MON</text><text x="177" y="248" fill="#858092" font-size="13">TUE</text><text x="271" y="248" fill="#858092" font-size="13">WED</text><text x="365" y="248" fill="#858092" font-size="13">THU</text><text x="459" y="248" fill="#858092" font-size="13">FRI</text>
+      <circle cx="83" cy="293" r="15" fill="#ffcb70"/><path d="M177 280c-9 0-15 7-15 15s6 15 15 15h18a13 13 0 0 0 1-26 17 17 0 0 0-19-4z" fill="#8be1c0"/><circle cx="271" cy="293" r="15" fill="#ffcb70"/><path d="M365 280c-9 0-15 7-15 15s6 15 15 15h18a13 13 0 0 0 1-26 17 17 0 0 0-19-4z" fill="#8be1c0"/><circle cx="459" cy="293" r="15" fill="#ffcb70"/>
+      <text x="83" y="346" fill="#211a3b" font-size="17" font-weight="700">24°</text><text x="177" y="346" fill="#211a3b" font-size="17" font-weight="700">21°</text><text x="271" y="346" fill="#211a3b" font-size="17" font-weight="700">25°</text><text x="365" y="346" fill="#211a3b" font-size="17" font-weight="700">20°</text><text x="459" y="346" fill="#211a3b" font-size="17" font-weight="700">26°</text>
+    </g>
+  </g>
+  <text x="63" y="106" fill="#211a3b" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="3">A LITTLE SUNSHINE</text>
+</svg>
